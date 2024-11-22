@@ -4,7 +4,7 @@ Repository of all my submitted solutions for datacamp competitions.
 
 ### 1) The Bald Truth: A Data-Driven Guide and Classifier to Hair Loss
 
-**Name:** ml-predictor-for-hair-loss
+**Name:** ```ml-predictor-for-hair-loss```
 
 **Executive summary:**
 This study analyzed survey data from 999 individuals to investigate the factors influencing hair loss. Variables such as genetics, hormonal changes, medical conditions, lifestyle choices, and environmental factors were examined. The analysis was conducted across three levels: descriptive statistics, visualization, and machine learning.
